@@ -1,0 +1,8 @@
+pandas
+seaborn
+missingno
+cufflinks
+plotly
+sklearn
+python-decouple
+sqlalchemy
