@@ -6,3 +6,4 @@ plotly
 sklearn
 python-decouple
 sqlalchemy
+jupyter
